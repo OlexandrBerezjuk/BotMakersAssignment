@@ -1,4 +1,4 @@
-@import url('https://olexandrberezjuk.github.io/BotMakersAssignment/style/UI/modal/modal.css');
+@import url('/UI/modal/modal.css');
 @import url('./UI/modal/modalChooseUser.css');
 @import url('./UI/modal/modalInfo/modalInfo.css');
 @import url('./UI/modal/modalInfo/modalInfoTask.css');

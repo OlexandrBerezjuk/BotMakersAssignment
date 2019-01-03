@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/olexandrberezjuk.github.io/BotMakersAssignment/precache-manifest.ae0e64af9afa498abc5f1c8db964d70e.js"
+  "/olexandrberezjuk.github.io/BotMakersAssignment/precache-manifest.faec9ceeeb3822c047de8aed3c1c96e0.js"
 );
 
 workbox.clientsClaim();

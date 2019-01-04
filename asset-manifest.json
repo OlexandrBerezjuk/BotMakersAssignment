@@ -1,13 +1,13 @@
 {
-  "main.css": "/olexandrberezjuk.github.io/BotMakersAssignment/static/css/main.7368ba6a.chunk.css",
-  "main.js": "/olexandrberezjuk.github.io/BotMakersAssignment/static/js/main.c53c9299.chunk.js",
-  "main.js.map": "/olexandrberezjuk.github.io/BotMakersAssignment/static/js/main.c53c9299.chunk.js.map",
-  "static/js/1.2c1af290.chunk.js": "/olexandrberezjuk.github.io/BotMakersAssignment/static/js/1.2c1af290.chunk.js",
-  "static/js/1.2c1af290.chunk.js.map": "/olexandrberezjuk.github.io/BotMakersAssignment/static/js/1.2c1af290.chunk.js.map",
-  "runtime~main.js": "/olexandrberezjuk.github.io/BotMakersAssignment/static/js/runtime~main.82d490ca.js",
-  "runtime~main.js.map": "/olexandrberezjuk.github.io/BotMakersAssignment/static/js/runtime~main.82d490ca.js.map",
-  "static/css/main.7368ba6a.chunk.css.map": "/olexandrberezjuk.github.io/BotMakersAssignment/static/css/main.7368ba6a.chunk.css.map",
-  "index.html": "/olexandrberezjuk.github.io/BotMakersAssignment/index.html",
-  "precache-manifest.faec9ceeeb3822c047de8aed3c1c96e0.js": "/olexandrberezjuk.github.io/BotMakersAssignment/precache-manifest.faec9ceeeb3822c047de8aed3c1c96e0.js",
-  "service-worker.js": "/olexandrberezjuk.github.io/BotMakersAssignment/service-worker.js"
+  "main.css": "./static/css/main.7368ba6a.chunk.css",
+  "main.js": "./static/js/main.ff27a31c.chunk.js",
+  "main.js.map": "./static/js/main.ff27a31c.chunk.js.map",
+  "static/js/1.2c1af290.chunk.js": "./static/js/1.2c1af290.chunk.js",
+  "static/js/1.2c1af290.chunk.js.map": "./static/js/1.2c1af290.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
+  "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
+  "static/css/main.7368ba6a.chunk.css.map": "./static/css/main.7368ba6a.chunk.css.map",
+  "index.html": "./index.html",
+  "precache-manifest.ff67e9388ec320afbbab87467c026d39.js": "./precache-manifest.ff67e9388ec320afbbab87467c026d39.js",
+  "service-worker.js": "./service-worker.js"
 }

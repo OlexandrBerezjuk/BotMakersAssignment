@@ -1,1 +1,0 @@
-https://medium.com/@bensigo/hosting-your-react-app-with-firebase-hosting-add1fa08c214

@@ -1,4 +1,0 @@
-https://medium.freecodecamp.org/surge-vs-github-pages-deploying-a-create-react-app-project-c0ecbf317089
-
-Solutions
-https://github.com/tschaub/gh-pages/issues/27
